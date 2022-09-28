@@ -1,0 +1,57 @@
+body {
+  background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+  max-width: 85%;
+  margin-left: 150px;
+}
+h1 {
+  margin-top: 150px;
+  font-size: 64px;
+  line-height: 1;
+}
+.temperature {
+  font-size: 60px;
+  font-weight: 400;
+  line-height: 1;
+}
+.units {
+  font-size: 18px;
+  position: relative;
+  top: -34px;
+}
+.form-group {
+  position: fixed;
+  top: 0;
+  margin-top: 50px;
+}
+.form-control {
+  padding: 10px;
+}
+.btn {
+  padding: 10px;
+}
+.skay {
+  font-size: 25px;
+  font-weight: 250;
+}
+.sun-icon {
+  color: hsl(50, 100%, 50%);
+  font-size: 100px;
+  position: relative;
+  left: 120px;
+}
+.day-time {
+  font-size: 18px;
+  font-weight: 250;
+  line-height: 1.8;
+}
+.cloud-icon {
+  font-size: 45px;
+  color: #5100ff;
+}
+.suncloud-icon {
+  color: hsl(50, 100%, 50%);
+  font-size: 45px;
+}
+.col-2 {
+  padding: 25px;
+}
